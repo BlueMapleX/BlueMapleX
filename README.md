@@ -1,4 +1,4 @@
 # BlueMapleX
 First try
 
-This seem fun
+This seems fun
